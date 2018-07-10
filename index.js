@@ -1,6 +1,6 @@
 // Add your doToElementsInArray() function here:
 
-funtcion doToElementsInArray(array){
-  array.forEach()
+function doToElementsInArray(array, callback) {
+  array.forEach(callback);
 }
 // Add your changeCompletely() function here:
